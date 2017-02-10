@@ -1,0 +1,21 @@
+{
+  "name": "day_05",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "Jayrajs <jayrajs.2007@betawrap.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.2"
+  }
+}
